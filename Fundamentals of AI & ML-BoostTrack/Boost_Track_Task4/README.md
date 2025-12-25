@@ -24,9 +24,15 @@ The output will store in the prediction_logs.txt file with timestamps.
 
 
 Folder Structure:
-├── Final_Project_Deployment/
-│   ├── app.py
-│   ├── final_model.pkl
-│   ├── prediction_logs.txt
-│   ├── requirements.txt
-│   ├── README.md
+
+    ├── Final_Project_Deployment/
+
+    │   ├── app.py
+
+    │   ├── final_model.pkl
+
+    │   ├── prediction_logs.txt
+
+    │   ├── requirements.txt
+
+    │   ├── README.md
